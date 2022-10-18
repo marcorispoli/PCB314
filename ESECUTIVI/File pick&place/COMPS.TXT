@@ -1,0 +1,47 @@
+***********************************************************
+*                                                         *
+* Component List (Generic)                                *
+*                                                         *
+* D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.MAX  *
+* Sat Oct 08 10:31:24 2022                                *
+*                                                         *
+***********************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X LOC      Y LOC      ROTATION
+------------------------------------------------------------------------------------------------------------
+J1         MOLEX 172298-8.. HEADER_10X2_8    1722981116-MOLEX                17.50 mm   104.00 mm 0       
+J2         MOLEX 172298-8.. HEADER_10X2_8    1722981116-MOLEX                68.30 mm   104.00 mm 0       
+J3         RED              HEADER_10X2_0    1510481200-MOLEX                89.54 mm   88.27 mm  0       
+J4         RED              HEADER_10X2_0    1510481200-MOLEX                59.06 mm   88.27 mm  0       
+J5         RED              HEADER_10X2_0    1510481200-MOLEX                74.30 mm   88.27 mm  0       
+J6         ORANGE           HEADER_10X2_0    1510481200-MOLEX                44.45 mm   88.27 mm  0       
+J7         ORANGE           HEADER_10X2_0    1510481200-MOLEX                29.21 mm   88.27 mm  0       
+J8         ORANGE           HEADER_10X2_0    1510481200-MOLEX                14.61 mm   88.27 mm  0       
+J9         ORANGE           HEADER_10X2_0    1510481200-MOLEX                14.61 mm   61.60 mm  0       
+J10        ORANGE           HEADER_10X2_0    1510481200-MOLEX                29.85 mm   61.60 mm  0       
+J11        RED              HEADER_10X2_2    1510481401-MOLEX                88.27 mm   38.74 mm  0       
+J12        RED              HEADER_10X2_2    1510481401-MOLEX                64.14 mm   38.74 mm  0       
+J13        RED              HEADER_10X2_3    1510481601-MOLEX                81.92 mm   14.61 mm  0       
+J14        BLACK            HEADER_10X2_3    1510481601-MOLEX                50.17 mm   14.61 mm  0       
+J15        BLU              HEADER_10X2_2    1510481401-MOLEX                16.51 mm   38.74 mm  0       
+J16        BLU              HEADER_10X2_2    1510481401-MOLEX                40.01 mm   38.74 mm  0       
+J17        BLACK            HEADER_10X2_2    1510481401-MOLEX                88.27 mm   61.60 mm  0       
+J18        BLU              HEADER_10X2_0    1510481200-MOLEX                13.34 mm   14.61 mm  0       
+J19        BLACK            HEADER_10X2_0    1510481200-MOLEX                44.45 mm   61.60 mm  0       
+J20        YELLOW           HEADER_10X2_0    1510481200-MOLEX                26.04 mm   14.61 mm  0       
+J21        WHITE            HEADER_10X2_0    1510481200-MOLEX                59.69 mm   61.60 mm  0       
+J22        DF11-10DP-2DSA   DF11-10DP-2DSA.. DF11-10DP-2DSA-HIROSE           71.76 mm   55.88 mm  0       
+JP1        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  95.89 mm   86.36 mm  90      
+JP2        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  66.04 mm   86.36 mm  90      
+JP3        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  81.28 mm   86.36 mm  90      
+JP4        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  51.44 mm   86.36 mm  90      
+JP5        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  36.20 mm   86.36 mm  90      
+JP6        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  20.96 mm   86.36 mm  90      
+JP7        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  20.96 mm   60.33 mm  90      
+JP8        2 PIN P.2.54     JUMPER_2         2SIP100-NEUTRO                  36.20 mm   60.33 mm  90      
+MTHOLE_1                                     MH3.5-CORONA_7                  0.00 mm    0.00 mm   0       
+MTHOLE_2                                     MH3.5-CORONA_7                  0.00 mm    91.00 mm  0       
+MTHOLE_3                                     MH3.5-CORONA_7                  28.00 mm   38.00 mm  0       
+MTHOLE_4                                     MH3.5-CORONA_7                  73.00 mm   65.00 mm  0       
+MTHOLE_5                                     MH3.5-CORONA_7                  92.00 mm   104.00 mm 0       
+MTHOLE_6                                     MH3.5-CORONA_7                  95.00 mm   0.00 mm   0       

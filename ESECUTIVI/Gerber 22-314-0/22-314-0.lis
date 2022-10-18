@@ -1,0 +1,147 @@
+Post Processor Report
+OrCAD FILE: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.MAX
+Sat Oct 08 10:31:06 2022
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.TOP
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.TOP:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      32 Flashes
+D11:  0.0630 ROUND  --       0 Draws,      12 Flashes
+D12:  0.0905 ROUND  --       0 Draws,      56 Flashes
+D13:  0.0590 ROUND  --       0 Draws,      14 Flashes
+D14:  0.0591 ROUND  --       0 Draws,       5 Flashes
+D15:  0.0800 ROUND  --       0 Draws,      16 Flashes
+D16:  0.2756 ROUND  --       0 Draws,       6 Flashes
+D17:  0.0100 ROUND  --    8311 Draws,       0 Flashes
+D18:  0.0150 ROUND  --      52 Draws,       0 Flashes
+D19:  0.0200 ROUND  --     114 Draws,       0 Flashes
+D20:  0.0394 ROUND  --       0 Draws,      16 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----    8477 Draws,     157 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.BOT
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.BOT:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      32 Flashes
+D11:  0.0630 ROUND  --       0 Draws,      12 Flashes
+D12:  0.0905 ROUND  --       0 Draws,      56 Flashes
+D13:  0.0590 ROUND  --       0 Draws,      14 Flashes
+D14:  0.0591 ROUND  --       0 Draws,       5 Flashes
+D15:  0.0800 ROUND  --       0 Draws,      16 Flashes
+D16:  0.2756 ROUND  --       0 Draws,       6 Flashes
+D17:  0.0100 ROUND  --    8598 Draws,       0 Flashes
+D18:  0.0150 ROUND  --      47 Draws,       0 Flashes
+D19:  0.0200 ROUND  --     218 Draws,       0 Flashes
+D20:  0.0394 ROUND  --       0 Draws,      15 Flashes
+D21:  0.0394 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----    8863 Draws,     157 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SMT
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SMT:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      32 Flashes
+D11:  0.0630 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0905 ROUND  --       0 Draws,      56 Flashes
+D13:  0.0590 ROUND  --       0 Draws,      14 Flashes
+D15:  0.0800 ROUND  --       0 Draws,      16 Flashes
+D16:  0.2756 ROUND  --       0 Draws,       6 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----       0 Draws,     134 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SMB
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SMB:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      32 Flashes
+D11:  0.0630 ROUND  --       0 Draws,      10 Flashes
+D12:  0.0905 ROUND  --       0 Draws,      56 Flashes
+D13:  0.0590 ROUND  --       0 Draws,      14 Flashes
+D15:  0.0800 ROUND  --       0 Draws,      16 Flashes
+D16:  0.2756 ROUND  --       0 Draws,       6 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----       0 Draws,     134 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SST
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.SST:
+---------------------------------------------------------
+D17:  0.0100 ROUND  --     481 Draws,       0 Flashes
+D18:  0.0150 ROUND  --      10 Draws,       0 Flashes
+D22:  0.0060 ROUND  --    3000 Draws,       0 Flashes
+D23:  0.0080 ROUND  --     149 Draws,       0 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----    3640 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.DRD
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.DRD:
+---------------------------------------------------------
+D17:  0.0100 ROUND  --    1514 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----    1514 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.DRL
+
+Aperture totals for D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\22-314-0.DRL:
+---------------------------------------------------------
+D11:  0.0630 ROUND  --       0 Draws,       2 Flashes
+D13:  0.0590 ROUND  --       0 Draws,       5 Flashes
+D14:  0.0591 ROUND  --       0 Draws,      14 Flashes
+D17:  0.0100 ROUND  --       8 Draws,       0 Flashes
+D24:  0.0433 ROUND  --       0 Draws,      48 Flashes
+D25:  0.0512 ROUND  --       0 Draws,      56 Flashes
+D26:  0.0315 ROUND  --       0 Draws,      10 Flashes
+D27:  0.1378 ROUND  --       0 Draws,       6 Flashes
+D28:  0.0050 ROUND  --     699 Draws,       4 Flashes
+D29:  0.0118 ROUND  --       0 Draws,      16 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----     707 Draws,     161 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,     128 Flashes
+D11:  0.0630 ROUND  --       0 Draws,      46 Flashes
+D12:  0.0905 ROUND  --       0 Draws,     224 Flashes
+D13:  0.0590 ROUND  --       0 Draws,      61 Flashes
+D14:  0.0591 ROUND  --       0 Draws,      24 Flashes
+D15:  0.0800 ROUND  --       0 Draws,      64 Flashes
+D16:  0.2756 ROUND  --       0 Draws,      24 Flashes
+D17:  0.0100 ROUND  --   18912 Draws,       0 Flashes
+D18:  0.0150 ROUND  --     109 Draws,       0 Flashes
+D19:  0.0200 ROUND  --     332 Draws,       0 Flashes
+D20:  0.0394 ROUND  --       0 Draws,      31 Flashes
+D21:  0.0394 ROUND  --       0 Draws,       1 Flashes
+D22:  0.0060 ROUND  --    3000 Draws,       0 Flashes
+D23:  0.0080 ROUND  --     149 Draws,       0 Flashes
+D24:  0.0433 ROUND  --       0 Draws,      48 Flashes
+D25:  0.0512 ROUND  --       0 Draws,      56 Flashes
+D26:  0.0315 ROUND  --       0 Draws,      10 Flashes
+D27:  0.1378 ROUND  --       0 Draws,       6 Flashes
+D28:  0.0050 ROUND  --     699 Draws,       4 Flashes
+D29:  0.0118 ROUND  --       0 Draws,      16 Flashes
+---------------------------------------------------------
+ 20 D-Codes      -----   23201 Draws,     743 Flashes
+
+
+No warnings or errors.
