@@ -1,5 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[05/05/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -60,7 +61,11 @@
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
-    (BOM_View_Output "FALSE"))
+    (BOM_View_Output "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\22-314.drc"
       (Type "Report"))
@@ -73,37 +78,28 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\22-314.dsn")
-      (Path "Design Resources" ".\22-314.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-314\ORCAD\22-314.dsn")
+      (Path "Design Resources"
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-314\ORCAD\22-314.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\22-314.dsn"))
+      (Select "Design Resources"
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-314\ORCAD\22-314.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 555"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 598")
-        (Scroll "-226 0")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path
-         "D:\UTENTI\00.CAD\00.PROGETTI\METALTRONICA\22-314-0 (SCHEDA CONNETTORI)\22-314.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1639 52 624")
-        (Scroll "498 544")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "D:\UTENTI\00.CAD\00.PROGETTI\METALTRONICA\22-314-0 (SCHEDA CONNETTORI)\22-314.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "OUTPUT")))
+        (Placement "44 2 3 -1 -1 0 0 0 200 0 555"))
+      (Tab 0)))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "Osvy"))
+  (MPSSessionName "marco")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))
